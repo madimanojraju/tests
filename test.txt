@@ -3,3 +3,7 @@
 Test file ! 
 
 Test the skills on cloud ! (Hybrid Cloud)   
+AWS
+AZURE
+
+Test updated ! Updated !
